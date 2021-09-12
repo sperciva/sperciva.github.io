@@ -21,4 +21,4 @@ I am a TEAM-UP postdoc at Michigan State University in the department of Biochem
 
 ### Accessibility
 
-I strive to make my research available to all. If you encounter any difficulties navigating my website or accessing my papers, please let me know at sperciva at msu dot edu.
+I strive to make my research available to all. I am currently in the process of creating screen-reader accessible versions of my papers, and welcome any input and feedback on making my website and research more accessible.
