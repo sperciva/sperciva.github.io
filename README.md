@@ -4,7 +4,13 @@ You find my old webpage [here](https://www.math.purdue.edu/~sperciva/).
 
 ### About me
 
-I am a TEAM-UP postdoc at Michigan State University in the department of Biochemistry and Molecular Biology. My research investigates both theoretical and applied problems in computational topology.
+I am a TEAM-UP postdoc at Michigan State University in the department of Biochemistry and Molecular Biology. My research involves using topological data analysis to study plant tomography.
+
+**Research Interests**
+* Computational topology
+* Topological data analysis
+* Reeb spaces
+* Mathematics and social justice
 
 **Background** 
 * B. A. in Mathematics and Statistics, Rice University, 2014 
