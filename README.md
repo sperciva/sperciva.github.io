@@ -2,34 +2,8 @@
 
 You find my old webpage [here](https://www.math.purdue.edu/~sperciva/).
 
-### Markdown
+### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I recieved my Bachelor's degree in mathematics and statistics from Rice University in 2014. I recieved my PhD in mathematics, with dissertation "Efficient Computation on Reeb Spaces and First Homology Groups", from Purdue University in 2021. Additionally, I was a summer intern at IBM in 2020 and 2021. I am now a TEAM-UP postdoc at Michigan State University in the department of Biochemistry and Molecular Biology. My research investigates both theoretical and applied problems in computational topology.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sperciva/sperciva.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[You can find a list of my papers and talks here](github.sperciva.io/papers-and-talks)
