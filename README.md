@@ -12,12 +12,16 @@ I am a TEAM-UP postdoc at Michigan State University in the department of Biochem
 * Reeb spaces
 * Mathematics and social justice
 
+[You can find a list of my papers and talks here](papers-and-talks)
+
 **Background** 
 * B. A. in Mathematics and Statistics, Rice University, 2014 
 * PhD in Mathematics, Purdue University, 2021, advisded by Saugtaa Basu. Dissertation "Efficient Computation on Reeb Spaces and First Homology Groups".
 * Summer intern at IBM in 2020 and 2021. 
 
-[You can find a list of my papers and talks here](papers-and-talks)
+**Non-academic**
+* I play viola in MSU's concert orchestra
+* I enjoy doing gymnastics and ballet
 
 ### Accessibility
 
