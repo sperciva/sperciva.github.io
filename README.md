@@ -19,6 +19,9 @@ I am a TEAM-UP postdoc at Michigan State University in the department of Biochem
 * PhD in Mathematics, Purdue University, 2021, advisded by Saugtaa Basu. Dissertation "Efficient Computation on Reeb Spaces and First Homology Groups".
 * Summer intern at IBM in 2020 and 2021. 
 
+**Professional Memberships**
+* National Association of Mathematicians
+
 **Non-academic**
 * I play viola in MSU's concert orchestra
 * I enjoy doing gymnastics and ballet
