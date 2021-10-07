@@ -10,7 +10,7 @@ I am a TEAM-UP postdoc at Michigan State University in the department of Biochem
 * Computational topology
 * Topological data analysis
 * Reeb spaces
-* Mathematics and social justice
+* Mathematics and biology
 
 [You can find a list of my papers and talks here](papers-and-talks)
 
