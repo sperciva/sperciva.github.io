@@ -1,7 +1,5 @@
 ## Welcome to Sarah Percival's home page
 
-You find my old webpage [here](https://www.math.purdue.edu/~sperciva/).
-
 ### About me
 
 I am a TEAM-UP postdoc at Michigan State University in the department of Biochemistry and Molecular Biology. My research involves using topological data analysis to study plant tomography.
@@ -25,6 +23,7 @@ I am a TEAM-UP postdoc at Michigan State University in the department of Biochem
 **Non-academic**
 * I play viola in MSU's concert orchestra
 * I enjoy doing gymnastics and ballet
+* I love alpacas
 
 ### Accessibility
 
