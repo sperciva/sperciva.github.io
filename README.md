@@ -2,7 +2,7 @@
 
 ### About me
 
-I am a TEAM-UP postdoc at Michigan State University in the department of Biochemistry and Molecular Biology. My research involves using topological data analysis to study plant tomography.
+I am a TEAM-UP postdoc at Michigan State University in the department of Biochemistry and Molecular Biology. My research involves using topological data analysis to study plant tomography as part of a collaboration with PIs Dan Chitwood, Arjun Krishnan, Beronda Montgomery, and Liz Munch.
 
 **Research Interests**
 * Computational topology
@@ -14,7 +14,7 @@ I am a TEAM-UP postdoc at Michigan State University in the department of Biochem
 
 **Background** 
 * B. A. in Mathematics and Statistics, Rice University, 2014 
-* PhD in Mathematics, Purdue University, 2021, advisded by Saugtaa Basu. Dissertation "Efficient Computation on Reeb Spaces and First Homology Groups".
+* PhD in Mathematics, Purdue University, 2021, advisded by Saugata Basu. Dissertation "Efficient Computation on Reeb Spaces and First Homology Groups".
 * Summer intern at IBM in 2020 and 2021. 
 
 **Professional Memberships**
