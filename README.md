@@ -21,7 +21,7 @@ I am a TEAM-UP postdoc at Michigan State University in the department of Biochem
 * National Association of Mathematicians
 
 **Non-academic**
-* I serve as principal violist in MSU's concert orchestra
+* I currently serve as principal violist in the MSU Concert Orchestra
 * I enjoy doing gymnastics and ballet
 * I love alpacas
 
