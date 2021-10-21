@@ -7,3 +7,5 @@
 "An Efficient Algorithm for the Computation of Reeb Spaces from Roadmaps" (in preparation)
 
 # Talks
+
+"Efficient Computation of Reeb Spaces", MSU TDA Seminar, September 2021
