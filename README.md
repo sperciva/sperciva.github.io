@@ -12,6 +12,9 @@ I am a TEAM-UP postdoc at Michigan State University in the department of Biochem
 
 [You can find a list of my papers and talks here](papers-and-talks)
 
+**Graduates Achieving Inclusion Now**
+Interested in hearing from current and recent graduate students on what your department can do to be more inclusive? Check out the videos from the [Graduates Achieving Inclusion Now](https://sites.google.com/view/gainconference/home/recorded-video) conference.
+
 **Background** 
 * B. A. in Mathematics and Statistics, Rice University, 2014 
 * PhD in Mathematics, Purdue University, 2021, advisded by Saugata Basu. Dissertation "Efficient Computation on Reeb Spaces and First Homology Groups".
