@@ -22,11 +22,12 @@ Interested in hearing from current and recent graduate students on what your dep
 * Summer intern at IBM in 2020 and 2021. 
 
 **Professional Memberships**
-* National Association of Mathematicians
+* The American Mathematical Society (AMS)
+* The North American Plant Phenotyping Network (NAPPN)
 
 **Non-academic**
 * I currently serve as principal violist in the MSU Concert Orchestra
-* I enjoy doing gymnastics and ballet
+* I am a member of MSU's Club Gymnastics team
 * I love alpacas
 
 ### Accessibility
