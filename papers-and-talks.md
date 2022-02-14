@@ -6,6 +6,9 @@
 
 "An Efficient Algorithm for the Computation of Reeb Spaces from Roadmaps" (in preparation)
 
+"Topological Genomic Analysis using Mapper for
+SARS-CoV-2 Variant Classification" joint with Aldo Guzmán-Saénz, Negin Karisani, Daniel Platt, Saugata Basu, and Laxmi Parida (in preparation)
+
 # Talks
 
 "Efficient Computation of Reeb Spaces", MSU TDA Seminar, September 2021
