@@ -22,6 +22,8 @@ Interested in hearing from current and recent graduate students on what your dep
 * Summer intern at IBM in 2020 and 2021. 
 
 **Professional Memberships**
+* The National Association of Mathematicians (NAM)
+* The Association for Women in Mathematics (AWM)
 * The American Mathematical Society (AMS)
 * The North American Plant Phenotyping Network (NAPPN)
 
