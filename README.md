@@ -24,11 +24,12 @@ Interested in hearing from current and recent graduate students on what your dep
 **Professional Memberships**
 * The National Association of Mathematicians (NAM)
 * The Association for Women in Mathematics (AWM)
+* The Society for Industrial and Applied Mathematics (SIAM)
 * The American Mathematical Society (AMS)
 * The North American Plant Phenotyping Network (NAPPN)
 
 **Non-academic**
-* I currently serve as principal violist in the MSU Concert Orchestra
+* I play viola and serve as a board member of the MSU Concert Orchestra
 * I am a member of MSU's Club Gymnastics team
 * I love alpacas
 
