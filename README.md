@@ -18,7 +18,7 @@ Interested in hearing from current and recent graduate students on what your dep
 
 **Background** 
 * B. A. in Mathematics and Statistics, Rice University, 2014 
-* PhD in Mathematics, Purdue University, 2021, advisded by Saugata Basu. Dissertation "Efficient Computation on Reeb Spaces and First Homology Groups".
+* PhD in Mathematics, Purdue University, 2021, advisded by Saugata Basu. Dissertation "Efficient Computation of Reeb Spaces and First Homology Groups".
 * Summer intern at IBM in 2020 and 2021. 
 
 **Professional Memberships**
