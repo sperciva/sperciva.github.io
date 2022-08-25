@@ -2,7 +2,7 @@
 
 ### About me
 
-I am a TEAM-UP postdoc at Michigan State University in the department of Biochemistry and Molecular Biology. My research involves using topological data analysis to study plant tomography as part of a collaboration with PIs Dan Chitwood, Arjun Krishnan, Beronda Montgomery, and Liz Munch.
+I am a TEAM-UP postdoc at Michigan State University in the department of Biochemistry and Molecular Biology. My research involves using topological data analysis to study plant tomography as part of a collaboration with PIs Dan Chitwood, Aman Husbands, Arjun Krishnan, Beronda Montgomery, and Liz Munch.
 
 **Research Interests**
 * Computational topology
