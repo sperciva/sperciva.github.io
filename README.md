@@ -29,7 +29,7 @@ Interested in hearing from current and recent graduate students on what your dep
 * The North American Plant Phenotyping Network (NAPPN)
 
 **Non-academic**
-* I play viola and serve as a board member of the MSU Concert Orchestra
+* I serve as principal violist and as the events coordinator of the MSU Concert Orchestra
 * I am a member of MSU's Club Gymnastics team
 * I love alpacas
 
