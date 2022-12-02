@@ -2,7 +2,7 @@
 
 ### About me
 
-I am a TEAM-UP postdoc at Michigan State University in the department of Biochemistry and Molecular Biology. My research involves using topological data analysis to study plant tomography as part of a collaboration with PIs Dan Chitwood, Aman Husbands, Arjun Krishnan, Beronda Montgomery, and Liz Munch.
+I am a TEAM-UP postdoc at Michigan State University in the department of Biochemistry and Molecular Biology. My research involves using topological data analysis to study protein folding as part of a collaboration with PIs Dan Chitwood, Alex Dickson, Liz Munch.
 
 **Research Interests**
 * Computational topology
@@ -29,9 +29,8 @@ Interested in hearing from current and recent graduate students on what your dep
 * The North American Plant Phenotyping Network (NAPPN)
 
 **Non-academic**
-* I serve as principal violist and as the events coordinator of the MSU Concert Orchestra
+* I serve as principal violist of the MSU Concert Orchestra
 * I am a member of MSU's Club Gymnastics team
-* I love alpacas
 
 ### Accessibility
 
