@@ -10,7 +10,7 @@ I am a TEAM-UP postdoc at Michigan State University in the department of Biochem
 * Reeb spaces
 * Mathematics and biology
 
-[You can find a list of my papers and talks here](papers-and-talks)
+[You can find my CV here](CV_2022.pdf)
 
 **Graduates Achieving Inclusion Now**
 
@@ -26,10 +26,9 @@ Interested in hearing from current and recent graduate students on what your dep
 * The Association for Women in Mathematics (AWM)
 * The Society for Industrial and Applied Mathematics (SIAM)
 * The American Mathematical Society (AMS)
-* The North American Plant Phenotyping Network (NAPPN)
 
 **Non-academic**
-* I serve as principal violist of the MSU Concert Orchestra
+* I play viola in the MSU Concert Orchestra
 * I am a member of MSU's Club Gymnastics team
 
 ### Accessibility
