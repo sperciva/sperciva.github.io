@@ -2,7 +2,7 @@
 
 ### About me
 
-I am a TEAM-UP postdoc at Michigan State University in the department of Biochemistry and Molecular Biology. My research involves using topological data analysis to study protein folding as part of a collaboration with PIs Dan Chitwood, Alex Dickson, Liz Munch.
+I am a TEAM-UP postdoc at Michigan State University in the department of Biochemistry and Molecular Biology. My research involves using topological data analysis to study protein folding as part of a collaboration with PIs Dan Chitwood, Alex Dickson, and Liz Munch.
 
 **Research Interests**
 * Computational topology
@@ -26,10 +26,13 @@ Interested in hearing from current and recent graduate students on what your dep
 * Summer intern at IBM in 2020 and 2021. 
 
 **Professional Memberships**
-* The National Association of Mathematicians (NAM)
-* The Association for Women in Mathematics (AWM)
-* The Society for Industrial and Applied Mathematics (SIAM)
 * The American Mathematical Society (AMS)
+* The Association for Women in Mathematics (AWM)
+* The National Association of Mathematicians (NAM)
+* The Society for Advancement of Chicanos/Hispanics & Native Americans in Science (SACNAS)
+* The Society for Industrial and Applied Mathematics (SIAM)
+* The Society for Mathematical Biology (SMB)
+
 
 **Non-academic**
 * I play viola in the MSU Concert Orchestra
