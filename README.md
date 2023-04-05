@@ -14,7 +14,7 @@ I am a TEAM-UP postdoc at Michigan State University in the department of Biochem
 
 **Events**
 
-I am co-organizing [a workshop](SoCG_2023.md) at SoCG 2023 on Mobius Inversions and Reeb Spaces.
+I am co-organizing [a workshop](https://sites.google.com/view/mobius-inversion-workshop) at SoCG 2023 on Mobius Inversions and Reeb Spaces.
 
 **Graduates Achieving Inclusion Now**
 
