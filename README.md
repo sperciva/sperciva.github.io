@@ -2,7 +2,7 @@
 
 ### About me
 
-I am a TEAM-UP postdoc at Michigan State University in the department of Biochemistry and Molecular Biology. My research involves using topological data analysis to study protein folding as part of a collaboration with PIs Dan Chitwood, Alex Dickson, and Liz Munch.
+I am a TEAM-UP postdoc at Michigan State University in the department of Biochemistry and Molecular Biology. My research involves using topological data analysis to study protein folding as part of a collaboration with PIs Dan Chitwood, Arjun Krishnan, and Liz Munch.
 
 **Research Interests**
 * Computational topology
@@ -40,4 +40,4 @@ Interested in hearing from current and recent graduate students on what your dep
 
 ### Accessibility
 
-I strive to make my research available to all. I am currently in the process of creating screen-reader accessible versions of my papers, and welcome any input and feedback on making my website and research more accessible.
+I strive to make my research available to all. I am currently in the process of creating screen-reader accessible versions of my papers, and welcome any input and feedback on making my website and research more accessible. [Arxiv Accessibility Forum](https://accessibility2023.arxiv.org/)
