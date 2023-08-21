@@ -2,7 +2,9 @@
 
 ### About me
 
-I am a TEAM-UP postdoc at Michigan State University in the department of Biochemistry and Molecular Biology. My research involves using topological data analysis to study protein folding as part of a collaboration with PIs Dan Chitwood, Arjun Krishnan, and Liz Munch.
+I am a fixed-term Assistant Professor at Michigan State University in the department of Computational Mathematics, Science, and Engineering. My research involves using computational topology to explore biological questions as part of a collaboration with PIs Arjun Krishnan and Liz Munch.
+
+In August 2024, I will be joining the Department of Mathematics and Statistics at the University of New Mexico as a Tenure-Track Assistant Professor.
 
 **Research Interests**
 * Computational topology
@@ -14,7 +16,7 @@ I am a TEAM-UP postdoc at Michigan State University in the department of Biochem
 
 **Events**
 
-I am co-organizing [a workshop](https://sites.google.com/view/mobius-inversion-workshop) at SoCG 2023 on Mobius Inversions and Reeb Spaces.
+I am co-organizing a special session at JMM 2024 on Applied Topology: Theory, Algorithms, and Applications.
 
 **Graduates Achieving Inclusion Now**
 
